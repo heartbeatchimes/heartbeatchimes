@@ -12,7 +12,7 @@ This unique combination of a natural heart rhythm and gentle percussion instrume
 
 ## Technology
 
-Heartbeat chimes work with RR intervals from a standard heart rate monitor, of the type used for training - either online, for a live biofeedback experience, or from saved data. Send us your heartbeat data for a personalised melody!
+Heartbeat Chimes work with RR intervals from a standard heart rate monitor, of the type used for training - either live, for a mesmerising biofeedback experience, or from saved data. Send us your heartbeat data today for a personalised melody!
 
 
 ## Applications
@@ -30,7 +30,7 @@ Heartbeat music can also add an intimate, personal dimension to interactive inst
 
 ## Lucid Dreams (Venice, Italy,  Apr 20th - Nov 24th 2024)
 
-The captivating piece "Lucid Dreams" combines a unique fusion of classical and computational visual arts with generative music derived from heart rate variability signals of a sleeping person. It is the result of a cooperation with Beata Maria Rzepecka of Gabriel Fine Arts, Melissa Budasz (alias "Masked Sphinx"). The piece is part of the Personal Structures exhibition, currently open at Palazzo Bembo in Venice, Italy. 
+The captivating piece "Lucid Dreams" combines a unique fusion of classical and computational visual arts with generative music derived from heart rate variability signals of a sleeping person. It is the result of a cooperation with [Beata Maria Rzepecka](https://beatamaria.art/) of [Gabriel Fine Arts](https://gabrielfinearts.com/) and  Melissa Budasz (alias [Masked Sphinx](https://maskedsphinx.com/)). The piece is part of the Personal Structures exhibition, currently open at Palazzo Bembo in Venice, Italy. 
 
 
 [![Lucid Dreams](assets/img/lucid_dreams_scr.png)](https://www.youtube.com/watch?v=bjx2urbXOjU  "Lucid Dreams")
@@ -40,8 +40,8 @@ The captivating piece "Lucid Dreams" combines a unique fusion of classical and c
 
 Contact us at the address below for
 
-* Personalised music from your RR interval files
+* Personalised music from your heartbeat monitor files
 * Collaboration in workshops and events
 * Art project cooperations
 
-Email: ![email address image](assets/img/email-address-image.gif)
+![email address image](assets/img/email-address-image.gif)
